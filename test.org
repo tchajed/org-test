@@ -1,0 +1,3 @@
+[[file:file.txt][file link]]
+
+[[file+emacs:file.txt][file+emacs link]]
